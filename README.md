@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@JeelChheta27**!  
-- 👀 I’m passionate about **DevOps**, **Full-Stack Development**, **Blockchain**, and solving **algorithmic challenges**.  
-- 🌱 Currently, I’m diving deeper into **advanced data structures**, **DevOps tools**, and **blockchain applications** in supply chain management.  
+- 👀 I’m passionate about **DevOps** and **Full-Stack Development**.  
+- 🌱 Currently, I’m diving deeper into **DevOps tools**, and **blockchain applications** in supply chain management.  
 - 💞️ I’m excited to collaborate on **innovative projects** involving **cloud technologies**, **containerization**, and **decentralized systems**.  
 - 📫 Let’s connect! Reach out to me on [LinkedIn](https://www.linkedin.com/in/jeelchheta/) or email me at **jeelchheta123@gmail.com**.  
 - 😄 Pronouns: **He/Him**  
