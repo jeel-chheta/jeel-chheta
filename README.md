@@ -1,10 +1,11 @@
 - 👋 Hi, I’m **@JeelChheta27**!  
-- 👀 I’m passionate about **DevOps** and **Full-Stack Development**.  
-- 🌱 Currently, I’m diving deeper into **DevOps tools**, and **blockchain applications** in supply chain management.  
-- 💞️ I’m excited to collaborate on **innovative projects** involving **cloud technologies**, **containerization**, and **decentralized systems**.  
-- 📫 Let’s connect! Reach out to me on [LinkedIn](https://www.linkedin.com/in/jeelchheta/) or email me at **jeelchheta123@gmail.com**.  
+- 🚀 Passionate about **DevOps** and its real-world applications.  
+- 🌱 Currently exploring **CI/CD pipelines, containerization, Kubernetes, and cloud automation**.  
+- 🛠️ Hands-on experience with **Docker, Jenkins, AWS, and Infrastructure as Code (IaC)**.  
+- 💡 Excited to collaborate on **scalable DevOps solutions, automation strategies, and cloud-native applications**.  
+- 📫 Let’s connect! Contact me on [LinkedIn](https://www.linkedin.com/in/jeelchheta/) or email me at **jeelchheta123@gmail.com**.  
 - 😄 Pronouns: **He/Him**  
-- ⚡ **Fun fact**: I’m a continuous learner and have recently started exploring the **Pi Crypto Network’s potential** in revolutionizing supply chains!  
+- ⚡ **Fun fact**: I love automating things to make life easier!  
 
 
 <!---
