@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **@JeelChheta27**!  
+- 👋 Hi, I’m **@jeel-chheta**!  
 - 🚀 Passionate about **DevOps** and its real-world applications.  
 - 🌱 Currently exploring **CI/CD pipelines, containerization, Kubernetes, and cloud automation**.  
 - 🛠️ Hands-on experience with **Docker, Jenkins, AWS, and Infrastructure as Code (IaC)**.  
